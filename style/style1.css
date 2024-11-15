@@ -244,7 +244,7 @@ ul li, ol li{
 	color: #fff;
 }
 @media only screen and (max-width:768px){ 
-.navbar-light .navbar-nav .nav-link {color: #fff;}
+.navbar-light .navbar-nav .nav-link {color: #333;}
 }
 @media only screen and (max-width:480px) { 
 .navbar-light .navbar-nav .nav-link {padding: 8px 0px;}
@@ -313,7 +313,7 @@ ul li, ol li{
 	box-shadow:0 10px 40px rgba(0, 0, 0, 0.05);
 }
 @media only screen and (max-width:768px){ 
-	.navbar-fixed {background:#383737;}
+	.navbar-fixed {background:#bdbaba;}
 	.navbar-fixed.navbar-light .navbar-nav .nav-link{color:#333;}
 }
 .navbar-fixed.navbar-light .navbar-nav .nav-link{color:#333333;}
